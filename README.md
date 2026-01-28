@@ -92,5 +92,26 @@ Aplikasi ini menggunakan filosofi desain minimalis yang menekankan pada kenyaman
 *   **Grand Collection**: Katalog buku dengan animasi lembut dan tekstur linen halus.
 *   **Librarian’s Desk**: Workspace administratif yang bersih dan fisien.
 
+## 🎨 screenshot postmen 
+|Register| 
+| :--- |
+|![WhatsApp Image 2026-01-28 at 11 21 26 PM](https://github.com/user-attachments/assets/beb28582-e3e1-437f-94a9-28a902a80645)|
+|login|
+![WhatsApp Image 2026-01-28 at 11 21 39 PM](https://github.com/user-attachments/assets/74ca10b0-a22b-4694-b4c6-acfad18e0603)
+menampilkan semua buku
+![WhatsApp Image 2026-01-28 at 11 22 02 PM](https://github.com/user-attachments/assets/f137ac76-bb30-4d6d-a9ca-72563fae734c)
+tambah buku
+![WhatsApp Image 2026-01-28 at 11 22 23 PM](https://github.com/user-attachments/assets/62d67a02-b0ab-4fe3-80db-1d1b31e5350b)
+edit buku
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/1eeb9b37-6fda-4ed6-a8dd-982a815e931e" />
+hapus buku
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/e3a75342-a637-450d-95fd-9fbf939d71c3" />
+tabel user
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/b5a0077e-719d-49cc-8040-d5d92d3c8fe9" />
+tabel buku/books
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/5a79d89b-13ab-4db2-b382-ffcd43f2becc" />
+tabel borrowlogs/ history peminjaman buku
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/f360e3ca-bf9e-4b11-8968-f85eaf8e674e" />
+
 ---
 *Proyek ini merupakan bagian dari evaluasi Remedial UTS mata kuliah Pemrograman Aplikasi Web (PAW).*
