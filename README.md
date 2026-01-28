@@ -103,15 +103,29 @@ menampilkan semua buku
 tambah buku
 ![WhatsApp Image 2026-01-28 at 11 22 23 PM](https://github.com/user-attachments/assets/62d67a02-b0ab-4fe3-80db-1d1b31e5350b)
 edit buku
-<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/1eeb9b37-6fda-4ed6-a8dd-982a815e931e" />
+|<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/1eeb9b37-6fda-4ed6-a8dd-982a815e931e" />|
 hapus buku
-<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/e3a75342-a637-450d-95fd-9fbf939d71c3" />
+|<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/e3a75342-a637-450d-95fd-9fbf939d71c3" />|
 tabel user
-<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/b5a0077e-719d-49cc-8040-d5d92d3c8fe9" />
+|<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/b5a0077e-719d-49cc-8040-d5d92d3c8fe9" />|
 tabel buku/books
-<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/5a79d89b-13ab-4db2-b382-ffcd43f2becc" />
+|<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/5a79d89b-13ab-4db2-b382-ffcd43f2becc" />|
 tabel borrowlogs/ history peminjaman buku
-<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/f360e3ca-bf9e-4b11-8968-f85eaf8e674e" />
+|<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/f360e3ca-bf9e-4b11-8968-f85eaf8e674e" />|
+Halaman login
+|<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/20e99391-3163-4d3f-bbda-f14586becf7a" />|
+Halaman Register
+|<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/9520873a-02bc-4bc9-9f81-190a6ff73915" />|
+Dashboard admin
+|<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/127afcc0-1074-4a14-bf4c-8fdc42e30540" />|
+halaman home/katalog user
+|<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/b0041810-31d9-493d-857d-97053927e92e" />|
+Minjam buku
+|<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/61f69473-6de9-4620-8834-71b71dae685a" />|
+halaman edit buku
+|<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/2140ba0d-1389-4110-b307-3caf6417890f" />|
+
+
 
 ---
 *Proyek ini merupakan bagian dari evaluasi Remedial UTS mata kuliah Pemrograman Aplikasi Web (PAW).*
